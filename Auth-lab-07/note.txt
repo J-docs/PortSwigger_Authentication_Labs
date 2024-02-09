@@ -1,0 +1,5 @@
+Link: https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-account-lock
+
+
+username=at
+password=111111

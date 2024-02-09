@@ -1,0 +1,25 @@
+Link: https://portswigger.net/web-security/authentication/password-based/lab-broken-bruteforce-protection-ip-block
+
+
+script to print wordlist in this pattern
+user:
+    weiner
+    carlos
+    carlos
+    weiner
+    .....
+    ....
+    ....
+
+
+password:
+    peter
+    .....
+    .....
+    peter
+    .....
+    .....
+    peter
+
+username: carlos
+password: maggie

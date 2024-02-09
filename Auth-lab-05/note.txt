@@ -1,0 +1,7 @@
+Link: https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing
+
+Your credentials: wiener:peter
+
+X-forward-for: 1
+
+username=arlington

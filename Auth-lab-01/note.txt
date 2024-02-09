@@ -1,0 +1,10 @@
+Link:https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses
+
+
+
+
+step 1: find the username by bruteforcing
+    Username: argentina
+
+step 2: find password with same
+    password: iloveyou

